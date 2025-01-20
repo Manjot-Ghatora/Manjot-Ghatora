@@ -1,6 +1,6 @@
 # Hey there, I'm Manjot Singh Ghatora 👋
 
-I'm a passionate software engineer with a love for open-source and coding challenges. I specialize in web development and love experimenting with new technologies. 
+I'm a passionate software engineer with a love for open-source and coding challenges. I specialize in web development and love experimenting with new technologies in the market. 
 
 ---
 
